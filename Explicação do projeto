@@ -1,0 +1,3 @@
+Fizemos nesse trabalho um banco de dados para login na nuvem da aws.
+Utilizamos para fazer isso o MySQL, AWS e o AZURE DATA STUDIO.
+Foi no AZURE DATA STUDIO que nós criamos a tabela e as colunas do banco de dados, nas colunas colocamos a ID que é a chave primaria para reconhecer o usuário, também temos a coluna usuário para se colocado o CPF de que irá usar o site, e a coluna senha para entrar no site.
